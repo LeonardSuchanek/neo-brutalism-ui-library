@@ -17,7 +17,7 @@ const Header = () => {
     <header className="bg-white h-20 w-full fixed top-0 z-40">
       <div className="w-full h-full m-auto flex justify-between items-center px-5 md:px-24">
         <Link to="/" className="text-2xl font-bold">
-          NEO-UI.
+          Reactino
         </Link>
         <nav className="hidden md:block w-1/2">
           <ul className="flex justify-end items-center space-x-4">
